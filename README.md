@@ -20,4 +20,4 @@ Traces d'améliorations possiblent :
 - éviter les fonction "break;"
 - diviser le code en plusieurs modules pour pouvoir l'intégrer avec d'autre jeu par exemple
 - un menu ou le joueur peux demander à rejouer
-- 
+  
